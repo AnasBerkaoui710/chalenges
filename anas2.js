@@ -1,3 +1,3 @@
 
-var a=prompt("Please enter your name", "Harry Potter");
+var a=prompt("Please enter your name", "Anas Berkaoui");
 console.log("hi ", a);
